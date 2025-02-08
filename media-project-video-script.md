@@ -55,9 +55,7 @@
 Intro
 
 - Hello everyone, my name is Hoang Nguyen. I am 4 years senior level computer science student in California State University, Fullerton. I have been passionate in coding and tech since
-  I was in highschool. During my freetime, I visit https://medium.com to learn about new technology. For example, if I wanted to learn a new tricks or tips of certain technology like a new
-  code editing software or programming language. I could use
-
-Body
+  I was in highschool. With the advancement of the technological these days such as AI and development of new Large Language Model  
+  Body
 
 Conclusion
